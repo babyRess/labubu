@@ -1,0 +1,83 @@
+
+suihua01.png
+size: 78,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win10
+  rotate: false
+  xy: 2, 10
+  size: 21, 41
+  orig: 24, 43
+  offset: 2, 1
+  index: -1
+win11
+  rotate: false
+  xy: 2, 4
+  size: 9, 4
+  orig: 12, 6
+  offset: 1, 1
+  index: -1
+win12
+  rotate: true
+  xy: 71, 43
+  size: 11, 5
+  orig: 13, 8
+  offset: 1, 1
+  index: -1
+win13
+  rotate: true
+  xy: 25, 6
+  size: 9, 16
+  orig: 11, 19
+  offset: 1, 1
+  index: -1
+win14
+  rotate: true
+  xy: 25, 17
+  size: 34, 19
+  orig: 36, 21
+  offset: 1, 1
+  index: -1
+win4
+  rotate: false
+  xy: 2, 53
+  size: 40, 23
+  orig: 43, 25
+  offset: 2, 1
+  index: -1
+win5
+  rotate: false
+  xy: 43, 3
+  size: 15, 9
+  orig: 17, 11
+  offset: 1, 1
+  index: -1
+win6
+  rotate: true
+  xy: 46, 14
+  size: 17, 25
+  orig: 19, 27
+  offset: 1, 1
+  index: -1
+win7
+  rotate: false
+  xy: 46, 33
+  size: 23, 21
+  orig: 25, 23
+  offset: 1, 1
+  index: -1
+win8
+  rotate: true
+  xy: 60, 4
+  size: 8, 14
+  orig: 10, 16
+  offset: 1, 1
+  index: -1
+win9
+  rotate: false
+  xy: 44, 56
+  size: 28, 20
+  orig: 30, 22
+  offset: 1, 1
+  index: -1

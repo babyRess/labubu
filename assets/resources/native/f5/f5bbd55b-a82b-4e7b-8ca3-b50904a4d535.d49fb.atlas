@@ -1,0 +1,75 @@
+sajb.png
+size: 287,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi03
+  rotate: false
+  xy: 2, 86
+  size: 96, 99
+  orig: 105, 103
+  offset: 8, 2
+  index: -1
+bi04
+  rotate: true
+  xy: 104, 195
+  size: 90, 99
+  orig: 105, 103
+  offset: 13, 2
+  index: -1
+bi05
+  rotate: true
+  xy: 2, 3
+  size: 81, 99
+  orig: 105, 103
+  offset: 18, 2
+  index: -1
+bi06
+  rotate: false
+  xy: 103, 2
+  size: 66, 100
+  orig: 105, 103
+  offset: 25, 1
+  index: -1
+bi07
+  rotate: false
+  xy: 171, 2
+  size: 45, 100
+  orig: 105, 103
+  offset: 33, 1
+  index: -1
+bi08
+  rotate: false
+  xy: 218, 83
+  size: 44, 100
+  orig: 105, 103
+  offset: 25, 1
+  index: -1
+bi09
+  rotate: false
+  xy: 205, 185
+  size: 70, 100
+  orig: 105, 103
+  offset: 10, 2
+  index: -1
+bi10
+  rotate: true
+  xy: 104, 104
+  size: 89, 99
+  orig: 105, 103
+  offset: 3, 3
+  index: -1
+bi11
+  rotate: false
+  xy: 2, 187
+  size: 100, 98
+  orig: 105, 103
+  offset: 2, 4
+  index: -1
+lizi02
+  rotate: false
+  xy: 218, 61
+  size: 20, 20
+  orig: 24, 25
+  offset: 2, 2
+  index: -1

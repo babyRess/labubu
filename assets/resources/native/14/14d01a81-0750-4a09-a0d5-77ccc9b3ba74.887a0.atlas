@@ -1,0 +1,104 @@
+
+saoguang.png
+size: 1543,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ansao_001
+  rotate: false
+  xy: 1517, 33
+  size: 9, 16
+  orig: 234, 90
+  offset: 0, 3
+  index: -1
+ansao_002
+  rotate: false
+  xy: 1517, 51
+  size: 24, 41
+  orig: 234, 90
+  offset: 0, 0
+  index: -1
+ansao_003
+  rotate: false
+  xy: 1472, 18
+  size: 43, 74
+  orig: 234, 90
+  offset: 0, 0
+  index: -1
+ansao_004
+  rotate: false
+  xy: 1348, 2
+  size: 68, 90
+  orig: 234, 90
+  offset: 0, 0
+  index: -1
+ansao_005
+  rotate: false
+  xy: 1165, 2
+  size: 98, 90
+  orig: 234, 90
+  offset: 0, 0
+  index: -1
+ansao_006
+  rotate: false
+  xy: 918, 2
+  size: 130, 90
+  orig: 234, 90
+  offset: 0, 0
+  index: -1
+ansao_007
+  rotate: false
+  xy: 602, 2
+  size: 165, 90
+  orig: 234, 90
+  offset: 0, 0
+  index: -1
+ansao_008
+  rotate: false
+  xy: 216, 2
+  size: 200, 90
+  orig: 234, 90
+  offset: 0, 0
+  index: -1
+ansao_009
+  rotate: false
+  xy: 2, 2
+  size: 212, 90
+  orig: 234, 90
+  offset: 18, 0
+  index: -1
+ansao_010
+  rotate: false
+  xy: 418, 2
+  size: 182, 90
+  orig: 234, 90
+  offset: 52, 0
+  index: -1
+ansao_011
+  rotate: false
+  xy: 769, 2
+  size: 147, 90
+  orig: 234, 90
+  offset: 87, 0
+  index: -1
+ansao_012
+  rotate: false
+  xy: 1050, 2
+  size: 113, 90
+  orig: 234, 90
+  offset: 121, 0
+  index: -1
+ansao_013
+  rotate: false
+  xy: 1265, 2
+  size: 81, 90
+  orig: 234, 90
+  offset: 153, 0
+  index: -1
+ansao_014
+  rotate: false
+  xy: 1418, 10
+  size: 52, 82
+  orig: 234, 90
+  offset: 182, 8
+  index: -1
