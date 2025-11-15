@@ -1,0 +1,41 @@
+
+cachu.png
+size: 221,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cachu_1
+  rotate: true
+  xy: 102, 2
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+cachu_2
+  rotate: false
+  xy: 2, 112
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+cachu_3
+  rotate: false
+  xy: 2, 24
+  size: 98, 86
+  orig: 98, 86
+  offset: 0, 0
+  index: -1
+cachu_4
+  rotate: false
+  xy: 103, 135
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+cachu_7
+  rotate: false
+  xy: 103, 74
+  size: 91, 59
+  orig: 91, 59
+  offset: 0, 0
+  index: -1

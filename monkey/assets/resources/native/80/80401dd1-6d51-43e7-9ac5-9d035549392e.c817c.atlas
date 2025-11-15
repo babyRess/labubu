@@ -1,0 +1,195 @@
+
+Labubu_Lucky_Pop.png
+size: 1413,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fm_11
+  rotate: true
+  xy: 671, 12
+  size: 350, 121
+  orig: 350, 121
+  offset: 0, 0
+  index: -1
+keko_jinbi
+  rotate: false
+  xy: 726, 369
+  size: 74, 74
+  orig: 88, 98
+  offset: 7, 13
+  index: -1
+keko_labu_0
+  rotate: true
+  xy: 952, 71
+  size: 270, 144
+  orig: 270, 144
+  offset: 0, 0
+  index: -1
+keko_labu_1
+  rotate: true
+  xy: 1123, 364
+  size: 300, 280
+  orig: 300, 280
+  offset: 0, 0
+  index: -1
+keko_labu_2
+  rotate: true
+  xy: 1177, 674
+  size: 110, 165
+  orig: 110, 165
+  offset: 0, 0
+  index: -1
+keko_labu_3
+  rotate: true
+  xy: 1177, 900
+  size: 130, 174
+  orig: 130, 174
+  offset: 0, 0
+  index: -1
+keko_labu_4
+  rotate: true
+  xy: 952, 343
+  size: 100, 155
+  orig: 100, 155
+  offset: 0, 0
+  index: -1
+keko_labu_5
+  rotate: true
+  xy: 1177, 786
+  size: 112, 174
+  orig: 112, 174
+  offset: 0, 0
+  index: -1
+keko_labu_6
+  rotate: false
+  xy: 2, 30
+  size: 667, 1000
+  orig: 667, 1000
+  offset: 0, 0
+  index: -1
+qipao01
+  rotate: false
+  xy: 27, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+qipao02
+  rotate: false
+  xy: 95, 14
+  size: 13, 14
+  orig: 14, 14
+  offset: 1, 0
+  index: -1
+win19
+  rotate: true
+  xy: 1353, 813
+  size: 59, 57
+  orig: 60, 57
+  offset: 1, 0
+  index: -1
+win25
+  rotate: true
+  xy: 2, 4
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+win26
+  rotate: true
+  xy: 27, 13
+  size: 15, 66
+  orig: 15, 66
+  offset: 0, 0
+  index: -1
+win27
+  rotate: false
+  xy: 1353, 946
+  size: 58, 84
+  orig: 58, 84
+  offset: 0, 0
+  index: -1
+win28
+  rotate: false
+  xy: 952, 32
+  size: 89, 37
+  orig: 89, 37
+  offset: 0, 0
+  index: -1
+win29
+  rotate: true
+  xy: 1123, 668
+  size: 68, 33
+  orig: 68, 33
+  offset: 0, 0
+  index: -1
+win30
+  rotate: false
+  xy: 1353, 874
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+win31
+  rotate: true
+  xy: 1353, 784
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+win32
+  rotate: true
+  xy: 1344, 737
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+win33
+  rotate: false
+  xy: 1344, 666
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+win34
+  rotate: false
+  xy: 110, 16
+  size: 46, 12
+  orig: 46, 12
+  offset: 0, 0
+  index: -1
+win35
+  rotate: true
+  xy: 671, 366
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+win_01_f
+  rotate: true
+  xy: 794, 6
+  size: 361, 156
+  orig: 361, 156
+  offset: 0, 0
+  index: -1
+win_02_f
+  rotate: true
+  xy: 1109, 17
+  size: 345, 291
+  orig: 345, 291
+  offset: 0, 0
+  index: -1
+win_03_f
+  rotate: false
+  xy: 671, 445
+  size: 450, 291
+  orig: 450, 291
+  offset: 0, 0
+  index: -1
+win_04_f
+  rotate: false
+  xy: 671, 738
+  size: 504, 292
+  orig: 504, 292
+  offset: 0, 0
+  index: -1

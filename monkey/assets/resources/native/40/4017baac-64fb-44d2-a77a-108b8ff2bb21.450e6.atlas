@@ -1,0 +1,174 @@
+
+sjjb.png
+size: 759,619
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+panda_00
+  rotate: true
+  xy: 2, 139
+  size: 146, 145
+  orig: 150, 150
+  offset: 0, 2
+  index: -1
+panda_01
+  rotate: false
+  xy: 378, 28
+  size: 145, 145
+  orig: 150, 150
+  offset: 0, 2
+  index: -1
+panda_02
+  rotate: false
+  xy: 525, 29
+  size: 139, 145
+  orig: 150, 150
+  offset: 6, 2
+  index: -1
+panda_03
+  rotate: false
+  xy: 547, 177
+  size: 126, 145
+  orig: 150, 150
+  offset: 14, 2
+  index: -1
+panda_04
+  rotate: false
+  xy: 558, 325
+  size: 105, 145
+  orig: 150, 150
+  offset: 25, 2
+  index: -1
+panda_05
+  rotate: false
+  xy: 673, 472
+  size: 80, 145
+  orig: 150, 150
+  offset: 36, 2
+  index: -1
+panda_06
+  rotate: false
+  xy: 675, 31
+  size: 73, 145
+  orig: 150, 150
+  offset: 38, 2
+  index: -1
+panda_07
+  rotate: false
+  xy: 665, 325
+  size: 92, 145
+  orig: 150, 150
+  offset: 26, 2
+  index: -1
+panda_08
+  rotate: false
+  xy: 314, 471
+  size: 116, 146
+  orig: 150, 150
+  offset: 14, 2
+  index: -1
+panda_09
+  rotate: true
+  xy: 150, 4
+  size: 133, 146
+  orig: 150, 150
+  offset: 6, 2
+  index: -1
+panda_10
+  rotate: false
+  xy: 412, 324
+  size: 144, 145
+  orig: 150, 150
+  offset: 2, 2
+  index: -1
+panda_11
+  rotate: false
+  xy: 400, 176
+  size: 145, 145
+  orig: 150, 150
+  offset: 2, 2
+  index: -1
+panda_12
+  rotate: false
+  xy: 432, 472
+  size: 144, 145
+  orig: 150, 150
+  offset: 2, 2
+  index: -1
+panda_13
+  rotate: false
+  xy: 150, 287
+  size: 140, 146
+  orig: 150, 150
+  offset: 7, 2
+  index: -1
+panda_14
+  rotate: false
+  xy: 186, 471
+  size: 126, 146
+  orig: 150, 150
+  offset: 15, 2
+  index: -1
+panda_15
+  rotate: false
+  xy: 295, 175
+  size: 103, 146
+  orig: 150, 150
+  offset: 26, 2
+  index: -1
+panda_16
+  rotate: false
+  xy: 298, 27
+  size: 78, 146
+  orig: 150, 150
+  offset: 36, 2
+  index: -1
+panda_17
+  rotate: false
+  xy: 675, 178
+  size: 74, 145
+  orig: 150, 150
+  offset: 35, 2
+  index: -1
+panda_18
+  rotate: false
+  xy: 578, 472
+  size: 93, 145
+  orig: 150, 150
+  offset: 23, 2
+  index: -1
+panda_19
+  rotate: false
+  xy: 292, 323
+  size: 118, 146
+  orig: 150, 150
+  offset: 10, 2
+  index: -1
+panda_20
+  rotate: true
+  xy: 2, 2
+  size: 135, 146
+  orig: 150, 150
+  offset: 3, 2
+  index: -1
+panda_21
+  rotate: false
+  xy: 149, 139
+  size: 144, 146
+  orig: 150, 150
+  offset: 0, 2
+  index: -1
+panda_22
+  rotate: false
+  xy: 2, 287
+  size: 146, 146
+  orig: 150, 150
+  offset: 0, 2
+  index: -1
+tex_xx2
+  rotate: false
+  xy: 2, 435
+  size: 182, 182
+  orig: 256, 256
+  offset: 37, 37
+  index: -1

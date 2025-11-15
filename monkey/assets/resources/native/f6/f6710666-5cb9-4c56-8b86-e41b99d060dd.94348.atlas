@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tex/按钮扫光1/按钮扫光1_00001
+  rotate: true
+  xy: 1212, 142
+  size: 32, 42
+  orig: 400, 200
+  offset: 54, 115
+  index: -1
+tex/按钮扫光1/按钮扫光1_00002
+  rotate: false
+  xy: 1140, 163
+  size: 70, 86
+  orig: 400, 200
+  offset: 53, 73
+  index: -1
+tex/按钮扫光1/按钮扫光1_00003
+  rotate: false
+  xy: 1024, 19
+  size: 105, 112
+  orig: 400, 200
+  offset: 53, 48
+  index: -1
+tex/按钮扫光1/按钮扫光1_00004
+  rotate: false
+  xy: 881, 128
+  size: 140, 121
+  orig: 400, 200
+  offset: 53, 40
+  index: -1
+tex/按钮扫光1/按钮扫光1_00005
+  rotate: false
+  xy: 701, 3
+  size: 175, 122
+  orig: 400, 200
+  offset: 53, 39
+  index: -1
+tex/按钮扫光1/按钮扫光1_00006
+  rotate: false
+  xy: 496, 127
+  size: 209, 122
+  orig: 400, 200
+  offset: 53, 39
+  index: -1
+tex/按钮扫光1/按钮扫光1_00007
+  rotate: false
+  xy: 255, 3
+  size: 241, 122
+  orig: 400, 200
+  offset: 55, 39
+  index: -1
+tex/按钮扫光1/按钮扫光1_00008
+  rotate: false
+  xy: 2, 127
+  size: 261, 122
+  orig: 400, 200
+  offset: 65, 39
+  index: -1
+tex/按钮扫光1/按钮扫光1_00009
+  rotate: false
+  xy: 2, 3
+  size: 251, 122
+  orig: 400, 200
+  offset: 91, 39
+  index: -1
+tex/按钮扫光1/按钮扫光1_00010
+  rotate: false
+  xy: 265, 127
+  size: 229, 122
+  orig: 400, 200
+  offset: 118, 39
+  index: -1
+tex/按钮扫光1/按钮扫光1_00011
+  rotate: false
+  xy: 498, 4
+  size: 201, 121
+  orig: 400, 200
+  offset: 146, 39
+  index: -1
+tex/按钮扫光1/按钮扫光1_00012
+  rotate: false
+  xy: 707, 128
+  size: 172, 121
+  orig: 400, 200
+  offset: 175, 39
+  index: -1
+tex/按钮扫光1/按钮扫光1_00013
+  rotate: false
+  xy: 878, 7
+  size: 144, 119
+  orig: 400, 200
+  offset: 203, 39
+  index: -1
+tex/按钮扫光1/按钮扫光1_00014
+  rotate: false
+  xy: 1023, 133
+  size: 115, 116
+  orig: 400, 200
+  offset: 232, 39
+  index: -1
+tex/按钮扫光1/按钮扫光1_00015
+  rotate: false
+  xy: 1131, 28
+  size: 86, 103
+  orig: 400, 200
+  offset: 261, 39
+  index: -1
+tex/按钮扫光1/按钮扫光1_00016
+  rotate: false
+  xy: 1212, 176
+  size: 57, 73
+  orig: 400, 200
+  offset: 290, 40
+  index: -1
+tex/按钮扫光1/按钮扫光1_00017
+  rotate: true
+  xy: 1131, 2
+  size: 24, 31
+  orig: 400, 200
+  offset: 320, 42
+  index: -1

@@ -2,59 +2,49 @@
 <html>
 <head>
   <meta charset="utf-8">
-
-  <title>Cocos Creator | labubu2</title>
-
-  <!--http://www.html5rocks.com/en/mobile/mobifying/-->
-  <meta name="viewport"
-        content="width=device-width,user-scalable=no,initial-scale=1,minimum-scale=1,maximum-scale=1,minimal-ui=true"/>
-
-  <!--https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html-->
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="format-detection" content="telephone=no">
-
-  <!-- force webkit on 360 -->
-  <meta name="renderer" content="webkit"/>
-  <meta name="force-rendering" content="webkit"/>
-  <!-- force edge on IE -->
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-  <meta name="msapplication-tap-highlight" content="no">
-
-  <!-- force full screen on some browser -->
-  <meta name="full-screen" content="yes"/>
-  <meta name="x5-fullscreen" content="true"/>
-  <meta name="360-fullscreen" content="true"/>
-
-  <!--fix fireball/issues/3568 -->
-  <!--<meta name="browsermode" content="application">-->
-  <meta name="x5-page-mode" content="app">
-
-  <!--<link rel="apple-touch-icon" href=".png" />-->
-  <!--<link rel="apple-touch-icon-precomposed" href=".png" />-->
-
-  <link rel="stylesheet" type="text/css" href="style.02f4a.css"/>
-
+  <title>Labubu Games Collection</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+    .container {
+      text-align: center;
+      color: white;
+    }
+    .game-link {
+      display: inline-block;
+      margin: 20px;
+      padding: 30px 60px;
+      background: rgba(255,255,255,0.2);
+      border-radius: 15px;
+      text-decoration: none;
+      color: white;
+      font-size: 24px;
+      transition: transform 0.3s;
+    }
+    .game-link:hover {
+      transform: scale(1.1);
+      background: rgba(255,255,255,0.3);
+    }
+  </style>
 </head>
 <body>
-  <div id="GameDiv" cc_exact_fit_screen="true">
-      <div id="Cocos3dGameContainer">
-        <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="99"></canvas>
-      </div>
+  <div class="container">
+    <h1>🎮 Labubu Games Collection</h1>
+    <div>
+      <a href="./labubu/" class="game-link">
+        🎰 Labubu Lucky Pop
+      </a>
+      <a href="./monkey/" class="game-link">
+        🐵 Monkey Game
+      </a>
     </div>
-  
-<!-- Polyfills bundle. -->
-<script src="src/polyfills.bundle.5adbf.js" charset="utf-8"> </script>
-
-<!-- SystemJS support. -->
-<script src="src/system.bundle.543e6.js" charset="utf-8"> </script>
-
-<!-- Import map -->
-<script src="src/import-map.bfc00.json" type="systemjs-importmap" charset="utf-8"> </script>
-
-<script>
-    System.import('./index.7045d.js').catch(function(err) { console.error(err); })
-</script>
-
+  </div>
 </body>
 </html>
