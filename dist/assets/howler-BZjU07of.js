@@ -1,4 +1,4 @@
-import{v as e}from"./pixi-BIzyt2fv.js";var n,t={};
+import{v as e}from"./pixi-CNGV2Pfe.js";var n,t={};
 /*!
  *  howler.js v2.2.4
  *  howlerjs.com
