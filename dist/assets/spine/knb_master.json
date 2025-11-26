@@ -1,0 +1,34 @@
+{
+  "frames": [
+    {
+      "filename": "10fs",
+      "frame": {
+        "x": 1508,
+        "y": 1661,
+        "w": 230,
+        "h": 117
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 117
+      }
+    }
+  ],
+  "meta": {
+    "image": "knb_master.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4096,
+      "h": 3859
+    },
+    "scale": 0.4
+  }
+}

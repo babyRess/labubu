@@ -1,0 +1,49 @@
+/* Outfit Font Family - Konbini Game */
+
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('./outfit-v11-latin_latin-ext-300-COlrd1hX.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./outfit-v11-latin_latin-ext-regular-BDXaL9-u.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./outfit-v11-latin_latin-ext-500-CMfhJlfe.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./outfit-v11-latin_latin-ext-600-DuSOvJ_5.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./outfit-v11-latin_latin-ext-700-D9T176aR.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('./outfit-v11-latin_latin-ext-800-ySok2YOt.woff2') format('woff2');
+}

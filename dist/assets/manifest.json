@@ -1,0 +1,45 @@
+{
+  "bundles": [
+    {
+      "name": "game",
+      "assets": [
+        {
+          "alias": "atlas_main",
+          "src": "/assets/sprites/knb_master.json"
+        },
+        {
+          "alias": "spine_background",
+          "src": "/assets/spine/knb_background.skel"
+        },
+        {
+          "alias": "spine_reelhouse",
+          "src": "/assets/spine/knb_reelhouse.skel"
+        },
+        {
+          "alias": "spine_screens",
+          "src": "/assets/spine/knb_screens.skel"
+        },
+        {
+          "alias": "spine_symbols",
+          "src": "/assets/spine/knb_symbols.skel"
+        },
+        {
+          "alias": "loader_bg",
+          "src": "/assets/images/knb_loader_bg.webp"
+        },
+        {
+          "alias": "loader",
+          "src": "/assets/images/knb_loader.webp"
+        },
+        {
+          "alias": "logo",
+          "src": "/assets/images/paperclip_full_logo.webp"
+        },
+        {
+          "alias": "font_main",
+          "src": "/assets/fonts/outfit-v11-latin-regular.woff2"
+        }
+      ]
+    }
+  ]
+}

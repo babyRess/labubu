@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<font>
+  <info face="knb_pink" size="272" bold="0" italic="0" charset="" unicode="" stretchH="272" smooth="1" aa="1" padding="0,0,0,0" spacing="1,0" outline="0"/>
+  <common lineHeight="272" base="272" scaleW="445" scaleH="1960" pages="1" packed="0"/>
+  <pages>
+    <page id="0" file="knb_pink.webp"/>
+  </pages>
+  <chars>
+    <char id="32" x="0" y="0" width="75" height="1" xoffset="0" yoffset="0" xadvance="75" yadvance="1"/>
+    <char id="120" x="4" y="4" width="218" height="272" xoffset="0" yoffset="0" xadvance="218" yadvance="1"/>
+    <char id="50" x="4" y="284" width="212" height="272" xoffset="0" yoffset="0" xadvance="212" yadvance="1"/>
+    <char id="51" x="4" y="564" width="212" height="272" xoffset="0" yoffset="0" xadvance="212" yadvance="1"/>
+    <char id="48" x="4" y="844" width="212" height="272" xoffset="0" yoffset="0" xadvance="212" yadvance="1"/>
+    <char id="54" x="4" y="1124" width="212" height="272" xoffset="0" yoffset="0" xadvance="212" yadvance="1"/>
+    <char id="56" x="4" y="1404" width="212" height="272" xoffset="0" yoffset="0" xadvance="212" yadvance="1"/>
+    <char id="53" x="4" y="1684" width="211" height="272" xoffset="0" yoffset="0" xadvance="211" yadvance="1"/>
+    <char id="57" x="223" y="1684" width="211" height="272" xoffset="0" yoffset="0" xadvance="211" yadvance="1"/>
+    <char id="55" x="224" y="284" width="211" height="272" xoffset="0" yoffset="0" xadvance="211" yadvance="1"/>
+    <char id="52" x="230" y="4" width="211" height="272" xoffset="0" yoffset="0" xadvance="211" yadvance="1"/>
+    <char id="49" x="224" y="564" width="146" height="272" xoffset="0" yoffset="0" xadvance="146" yadvance="1"/>
+    <char id="46" x="224" y="844" width="103" height="272" xoffset="0" yoffset="0" xadvance="103" yadvance="1"/>
+    <char id="44" x="224" y="1124" width="103" height="272" xoffset="0" yoffset="0" xadvance="103" yadvance="1"/>
+  </chars>
+</font>
